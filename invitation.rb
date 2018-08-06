@@ -1,3 +1,5 @@
 # Code your prompts here!
-
-# Try starting out with puts'ing a string.
+guest_name = Hermione
+puts "Dear" #{guest_name}
+party name = Best Halloween Party Ever 
+puts "You are cordially invited to #{party_name} on"
